@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Marek, and I am programming enthusiast looking forward to becoming professional Software Developer. I have graduated from Software Development Academy where I participated at Python from Basic bootcamp. I am eager to learn new technologies and looking forward for commercial experience. 
+
+Currently, my tech stack includes Python, MySQL, and Django Framework. 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-mmaslan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marek-ma%C5%9Blany-4b283a138/)](https://www.linkedin.com/in/marek-ma%C5%9Blany-4b283a138/)
 [![Gmail Badge](https://img.shields.io/badge/-marek.maslany1@hmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mailto:marek.maslany1@gmail.com)](mailto:marek.maslany1@gmail.com)
 
